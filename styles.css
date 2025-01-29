@@ -14,21 +14,29 @@ header {
     margin: 3em;
 }
 
+#trek1 {
+    background-color: rgb(39, 86, 86);
+    padding: auto;
+    border: 1px;
+    border-radius: 3em;
+    box-shadow: 2px 10px #353736;
+}
+
 div {
     background-color: rgba(98, 197, 195, 0.651);
     width: 300px;
     border: 0.5em ridge;
     padding: 50px;
     border-radius: 3em;
-    
+
 }
 
 h3 {
+    display: inline-flex;
     text-align: center;
     padding: 4px;
-    margin: 6px;
+    margin: 2px;
     background-color: #a2b7b2;
     border-radius: 300em;
-    border-style: outset;
 }
 
