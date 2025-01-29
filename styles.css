@@ -81,3 +81,10 @@ h3 {
     position: relative;
     bottom: 40px;
 }
+
+footer {
+    text-align: center;
+    background-color: #785168;
+    padding: auto;
+    border-radius: 100em;
+}
