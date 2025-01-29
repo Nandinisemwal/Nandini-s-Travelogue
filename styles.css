@@ -2,5 +2,14 @@
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     font-style: oblique;
-    background-color: rgb(190, 228, 226);
+    background-color: #bca3a4;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    background-color: #a2b7b2;
+    border-style: outset;
+    border-radius: 50em;
+    margin: 3em;
 }
