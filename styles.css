@@ -7,9 +7,18 @@
 
 header {
     text-align: center;
-    padding: 10px;
+    padding: 2px;
     background-color: #a2b7b2;
     border-style: outset;
     border-radius: 50em;
     margin: 3em;
+}
+
+h3 {
+    text-align: center;
+    padding: 4px;
+    margin: 5px;
+    background-color: #a2b7b2;
+    border-radius: 300em;
+    border-style: outset;
 }
