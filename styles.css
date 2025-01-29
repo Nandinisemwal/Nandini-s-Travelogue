@@ -14,11 +14,21 @@ header {
     margin: 3em;
 }
 
+div {
+    background-color: rgba(98, 197, 195, 0.651);
+    width: 300px;
+    border: 0.5em ridge;
+    padding: 50px;
+    border-radius: 3em;
+    
+}
+
 h3 {
     text-align: center;
     padding: 4px;
-    margin: 5px;
+    margin: 6px;
     background-color: #a2b7b2;
     border-radius: 300em;
     border-style: outset;
 }
+
